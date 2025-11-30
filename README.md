@@ -1,2 +1,2 @@
 # Project_Little-Maharashtrian-Shop
-⭐ Home Page – Short Description  “Welcome to our Maharashtrian Food website! Here you will find authentic flavours of Maharashtra, from traditional dishes to favourite snacks.
+“I’m excited to share the introduction and overview of my Maharashtrian Food website project. This video demonstrates the Home, Menu, Hours, Contact, and About pages, along with the inspiration behind creating this project.”
